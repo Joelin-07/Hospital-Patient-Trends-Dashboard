@@ -1,0 +1,501 @@
+PatientID,Age,Diagnosis,LengthOfStay,HospitalDepartment,Gender
+1001,71.0,Cancer,13.0,Emergency,Female
+1002,34.0,Asthma,13.0,Pediatrics,Male
+1003,80.0,Cancer,14.0,Emergency,Male
+1004,40.0,Asthma,8.0,Emergency,Male
+1005,43.0,Asthma,3.0,Cardiology,Female
+1006,22.0,Heart Disease,2.0,Oncology,Male
+1007,41.0,Diabetes,1.0,Emergency,Female
+1008,72.0,Diabetes,14.0,Emergency,Female
+1009,21.0,Flu,3.0,General,Female
+1010,49.0,Heart Disease,2.0,Oncology,Female
+1011,57.0,Asthma,2.0,General,Female
+1012,21.0,Diabetes,6.0,Oncology,Female
+1013,83.0,Asthma,12.0,General,Female
+1014,79.0,Diabetes,1.0,Emergency,Male
+1015,40.0,Diabetes,2.0,Emergency,Male
+1016,52.0,Diabetes,14.0,Cardiology,Female
+1017,77.0,Heart Disease,6.0,General,Female
+1018,41.0,Cancer,3.0,Pediatrics,Male
+1019,68.0,Asthma,4.0,Cardiology,Female
+1020,78.0,Heart Disease,1.0,General,Male
+1021,61.0,Heart Disease,8.0,General,Male
+1022,79.0,Heart Disease,13.0,Cardiology,Male
+1023,34.0,Heart Disease,7.0,Emergency,Female
+1024,81.0,Heart Disease,7.0,General,Female
+1025,81.0,Flu,3.0,Emergency,Male
+1026,66.0,Asthma,10.0,Cardiology,Male
+1027,81.0,Heart Disease,10.0,Emergency,Male
+1028,70.0,Asthma,3.0,Oncology,Male
+1029,74.0,Flu,14.0,Pediatrics,Male
+1030,83.0,Flu,2.0,General,Female
+1031,22.0,Asthma,12.0,Pediatrics,Male
+1032,70.0,Diabetes,1.0,Emergency,Female
+1033,26.0,Cancer,7.0,General,Male
+1034,40.0,Diabetes,7.0,Emergency,Female
+1035,58.0,Diabetes,12.0,Oncology,Female
+1036,37.0,Diabetes,2.0,Cardiology,Female
+1037,23.0,Heart Disease,7.0,General,Female
+1038,79.0,Flu,13.0,Oncology,Female
+1039,33.0,Diabetes,8.0,Oncology,Female
+1040,28.0,Flu,1.0,General,Male
+1041,72.0,Asthma,9.0,Emergency,Female
+1042,21.0,Cancer,7.0,Oncology,Male
+1043,79.0,Asthma,3.0,Pediatrics,Female
+1044,63.0,Asthma,8.0,Oncology,Female
+1045,27.0,Heart Disease,7.0,Emergency,Male
+1046,66.0,Cancer,11.0,Emergency,Female
+1047,54.0,Asthma,13.0,Pediatrics,Male
+1048,55.0,Asthma,8.0,Oncology,Male
+1049,69.0,Cancer,6.0,Emergency,Male
+1050,23.0,Cancer,9.0,General,Male
+1051,54.0,Asthma,5.0,Cardiology,Female
+1052,54.0,Cancer,3.0,Cardiology,Female
+1053,54.0,Asthma,3.0,Cardiology,Male
+1054,54.0,Asthma,1.0,Oncology,Female
+1055,54.0,Heart Disease,12.0,Pediatrics,Female
+1056,54.0,Diabetes,8.0,Emergency,Male
+1057,54.0,Asthma,2.0,General,Female
+1058,54.0,Flu,3.0,General,Male
+1059,54.0,Diabetes,8.0,Oncology,Male
+1060,54.0,Diabetes,14.0,Cardiology,Female
+1061,54.0,Diabetes,8.0,Oncology,Female
+1062,67.0,Heart Disease,14.0,Pediatrics,Female
+1063,34.0,Asthma,11.0,Pediatrics,Male
+1064,81.0,Heart Disease,4.0,Emergency,Male
+1065,59.0,Asthma,4.0,Emergency,Female
+1066,72.0,Heart Disease,5.0,Pediatrics,Female
+1067,43.0,Heart Disease,6.0,Pediatrics,Female
+1068,45.0,Flu,5.0,Pediatrics,Female
+1069,79.0,Heart Disease,14.0,Oncology,Male
+1070,60.0,Cancer,7.0,Pediatrics,Female
+1071,48.0,Flu,2.0,General,Male
+1072,34.0,Heart Disease,7.0,Cardiology,Male
+1073,64.0,Diabetes,10.0,Pediatrics,Female
+1074,84.0,Cancer,7.0,Cardiology,Female
+1075,28.0,Cancer,1.0,Oncology,Female
+1076,20.0,Cancer,7.0,Cardiology,Male
+1077,27.0,Flu,5.0,Oncology,Female
+1078,82.0,Heart Disease,3.0,General,Female
+1079,30.0,Heart Disease,13.0,Oncology,Male
+1080,27.0,Diabetes,3.0,Oncology,Female
+1081,54.0,Diabetes,4.0,Emergency,Male
+1082,54.0,Cancer,13.0,Pediatrics,Female
+1083,52.0,Diabetes,12.0,Pediatrics,Male
+1084,24.0,Flu,2.0,General,Female
+1085,60.0,Heart Disease,2.0,General,Female
+1086,47.0,Cancer,1.0,Pediatrics,Male
+1087,26.0,Diabetes,5.0,Emergency,Male
+1088,31.0,Flu,4.0,Pediatrics,Female
+1089,53.0,Flu,11.0,Emergency,Male
+1090,52.0,Diabetes,10.0,General,Male
+1091,67.0,Heart Disease,2.0,Cardiology,Male
+1092,42.0,Diabetes,3.0,General,Male
+1093,81.0,Cancer,7.0,General,Female
+1094,56.0,Diabetes,7.0,Oncology,Female
+1095,63.0,Flu,12.0,Oncology,Male
+1096,54.0,Diabetes,4.0,Oncology,Male
+1097,84.0,Heart Disease,5.0,Oncology,Male
+1098,66.0,Asthma,5.0,Emergency,Male
+1099,22.0,Diabetes,6.0,Pediatrics,Female
+1100,20.0,Heart Disease,14.0,Cardiology,Female
+1101,24.0,Heart Disease,7.0,General,Male
+1102,33.0,Flu,7.0,Emergency,Male
+1103,46.0,Heart Disease,7.0,Cardiology,Male
+1104,28.0,Heart Disease,7.0,Emergency,Female
+1105,34.0,Heart Disease,7.0,Emergency,Male
+1106,61.0,Heart Disease,7.0,General,Female
+1107,70.0,Cancer,7.0,Pediatrics,Male
+1108,82.0,Cancer,7.0,Oncology,Female
+1109,71.0,Flu,7.0,Pediatrics,Male
+1110,23.0,Diabetes,7.0,General,Female
+1111,42.0,Heart Disease,7.0,General,Male
+1112,34.0,Diabetes,10.0,General,Male
+1113,62.0,Diabetes,14.0,Cardiology,Male
+1114,48.0,Flu,8.0,Pediatrics,Female
+1115,55.0,Heart Disease,11.0,Pediatrics,Male
+1116,32.0,Heart Disease,14.0,Emergency,Female
+1117,51.0,Asthma,7.0,Emergency,Female
+1118,78.0,Diabetes,1.0,Emergency,Male
+1119,47.0,Diabetes,2.0,General,Male
+1120,85.0,Cancer,3.0,Pediatrics,Male
+1121,61.0,Asthma,1.0,General,Female
+1122,64.0,Cancer,14.0,Cardiology,Male
+1123,81.0,Cancer,9.0,Emergency,Female
+1124,76.0,Cancer,8.0,General,Female
+1125,25.0,Flu,2.0,General,Male
+1126,47.0,Flu,13.0,Cardiology,Male
+1127,47.0,Cancer,9.0,Oncology,Male
+1128,63.0,Asthma,7.0,Pediatrics,Male
+1129,49.0,Diabetes,9.0,Oncology,Male
+1130,81.0,Asthma,6.0,Emergency,Male
+1131,81.0,Heart Disease,6.0,General,Female
+1132,20.0,Flu,11.0,Cardiology,Female
+1133,46.0,Diabetes,14.0,Cardiology,Female
+1134,81.0,Diabetes,4.0,Pediatrics,Male
+1135,22.0,Heart Disease,10.0,Oncology,Female
+1136,89.0,Heart Disease,10.0,Pediatrics,Female
+1137,46.0,Cancer,13.0,General,Female
+1138,28.0,Flu,13.0,Pediatrics,Female
+1139,81.0,Flu,2.0,Cardiology,Female
+1140,56.0,Asthma,7.0,Cardiology,Male
+1141,70.0,Cancer,5.0,Emergency,Male
+1142,63.0,Cancer,11.0,Emergency,Female
+1143,43.0,Cancer,6.0,General,Female
+1144,78.0,Cancer,2.0,Oncology,Female
+1145,51.0,Flu,5.0,Pediatrics,Male
+1146,71.0,Flu,10.0,General,Male
+1147,81.0,Cancer,4.0,Emergency,Female
+1148,77.0,Asthma,9.0,Pediatrics,Male
+1149,71.0,Diabetes,6.0,Emergency,Male
+1150,31.0,Diabetes,2.0,Pediatrics,Female
+1151,58.0,Asthma,1.0,Oncology,Male
+1152,21.0,Cancer,5.0,General,Male
+1153,22.0,Flu,9.0,Pediatrics,Female
+1154,75.0,Diabetes,6.0,Cardiology,Male
+1155,78.0,Heart Disease,10.0,Cardiology,Male
+1156,21.0,Heart Disease,12.0,Pediatrics,Female
+1157,21.0,Asthma,7.0,Pediatrics,Male
+1158,73.0,Cancer,5.0,Pediatrics,Male
+1159,20.0,Diabetes,10.0,Cardiology,Female
+1160,38.0,Cancer,6.0,Cardiology,Female
+1161,21.0,Diabetes,5.0,Pediatrics,Female
+1162,72.0,Asthma,11.0,Emergency,Male
+1163,63.0,Asthma,9.0,Emergency,Female
+1164,51.0,Heart Disease,6.0,Oncology,Male
+1165,89.0,Cancer,11.0,General,Female
+1166,51.0,Heart Disease,8.0,Emergency,Male
+1167,87.0,Cancer,2.0,Cardiology,Female
+1168,74.0,Heart Disease,12.0,Emergency,Female
+1169,75.0,Flu,13.0,Oncology,Female
+1170,36.0,Flu,9.0,Oncology,Female
+1171,57.0,Flu,5.0,General,Male
+1172,43.0,Flu,7.0,Emergency,Female
+1173,88.0,Diabetes,10.0,Cardiology,Female
+1174,89.0,Flu,13.0,Cardiology,Male
+1175,30.0,Asthma,1.0,Pediatrics,Female
+1176,35.0,Asthma,10.0,Cardiology,Male
+1177,78.0,Diabetes,5.0,General,Female
+1178,89.0,Flu,12.0,General,Female
+1179,22.0,Flu,14.0,Cardiology,Female
+1180,39.0,Flu,10.0,Cardiology,Male
+1181,78.0,Heart Disease,14.0,Pediatrics,Female
+1182,55.0,Cancer,2.0,Cardiology,Female
+1183,38.0,Heart Disease,12.0,Pediatrics,Female
+1184,86.0,Cancer,6.0,Pediatrics,Male
+1185,38.0,Flu,11.0,Cardiology,Male
+1186,39.0,Flu,1.0,Oncology,Female
+1187,71.0,Heart Disease,3.0,Oncology,Male
+1188,52.0,Heart Disease,5.0,Pediatrics,Female
+1189,59.0,Cancer,4.0,Cardiology,Female
+1190,58.0,Asthma,3.0,Oncology,Female
+1191,20.0,Cancer,10.0,Cardiology,Female
+1192,30.0,Heart Disease,13.0,Cardiology,Female
+1193,76.0,Heart Disease,5.0,Cardiology,Female
+1194,69.0,Diabetes,11.0,Emergency,Female
+1195,42.0,Heart Disease,8.0,Cardiology,Male
+1196,50.0,Diabetes,11.0,Emergency,Male
+1197,61.0,Asthma,4.0,Pediatrics,Male
+1198,26.0,Cancer,1.0,Oncology,Male
+1199,35.0,Cancer,11.0,Oncology,Male
+1200,79.0,Diabetes,7.0,Oncology,Male
+1201,21.0,Cancer,8.0,Oncology,Male
+1202,20.0,Heart Disease,3.0,Oncology,Female
+1203,67.0,Flu,6.0,Oncology,Female
+1204,31.0,Diabetes,2.0,Oncology,Female
+1205,88.0,Cancer,7.0,Pediatrics,Female
+1206,56.0,Diabetes,8.0,Cardiology,Male
+1207,51.0,Diabetes,6.0,General,Male
+1208,28.0,Flu,6.0,Emergency,Female
+1209,38.0,Heart Disease,5.0,General,Female
+1210,67.0,Diabetes,8.0,General,Male
+1211,22.0,Cancer,1.0,Cardiology,Female
+1212,39.0,Asthma,10.0,Cardiology,Female
+1213,43.0,Diabetes,4.0,Cardiology,Female
+1214,73.0,Diabetes,4.0,Oncology,Female
+1215,52.0,Flu,3.0,Pediatrics,Male
+1216,43.0,Heart Disease,3.0,Oncology,Female
+1217,55.0,Asthma,4.0,Pediatrics,Female
+1218,57.0,Cancer,11.0,Pediatrics,Male
+1219,44.0,Asthma,1.0,General,Male
+1220,37.0,Cancer,14.0,General,Female
+1221,85.0,Heart Disease,11.0,Pediatrics,Male
+1222,73.0,Cancer,13.0,Pediatrics,Female
+1223,54.0,Flu,11.0,Oncology,Female
+1224,80.0,Flu,2.0,Oncology,Male
+1225,60.0,Flu,9.0,General,Female
+1226,52.0,Flu,10.0,Cardiology,Female
+1227,87.0,Asthma,2.0,Pediatrics,Female
+1228,52.0,Heart Disease,5.0,Oncology,Female
+1229,33.0,Cancer,9.0,General,Male
+1230,40.0,Cancer,9.0,Oncology,Male
+1231,67.0,Flu,8.0,Pediatrics,Female
+1232,39.0,Flu,1.0,Pediatrics,Male
+1233,27.0,Diabetes,1.0,Emergency,Female
+1234,26.0,Heart Disease,9.0,Cardiology,Female
+1235,86.0,Asthma,13.0,Emergency,Female
+1236,36.0,Cancer,11.0,General,Female
+1237,52.0,Diabetes,8.0,Oncology,Female
+1238,67.0,Diabetes,10.0,General,Male
+1239,78.0,Cancer,9.0,Pediatrics,Female
+1240,41.0,Asthma,7.0,Emergency,Male
+1241,49.0,Diabetes,3.0,Emergency,Male
+1242,57.0,Diabetes,3.0,Emergency,Female
+1243,70.0,Heart Disease,2.0,General,Female
+1244,73.0,Asthma,5.0,Pediatrics,Female
+1245,27.0,Diabetes,12.0,Oncology,Female
+1246,46.0,Asthma,12.0,Oncology,Female
+1247,46.0,Cancer,3.0,General,Male
+1248,40.0,Flu,14.0,Emergency,Female
+1249,49.0,Diabetes,6.0,Cardiology,Female
+1250,47.0,Heart Disease,2.0,General,Male
+1251,83.0,Cancer,12.0,General,Male
+1252,88.0,Asthma,3.0,Pediatrics,Female
+1253,80.0,Cancer,5.0,Oncology,Male
+1254,67.0,Diabetes,12.0,General,Female
+1255,38.0,Asthma,11.0,General,Male
+1256,23.0,Flu,11.0,Emergency,Male
+1257,54.0,Cancer,1.0,Emergency,Female
+1258,83.0,Diabetes,13.0,Cardiology,Male
+1259,68.0,Heart Disease,1.0,Pediatrics,Male
+1260,36.0,Asthma,10.0,Cardiology,Male
+1261,63.0,Cancer,9.0,Emergency,Male
+1262,49.0,Cancer,7.0,Oncology,Male
+1263,65.0,Flu,1.0,Emergency,Male
+1264,25.0,Flu,12.0,Pediatrics,Female
+1265,56.0,Heart Disease,14.0,Emergency,Female
+1266,43.0,Heart Disease,8.0,Pediatrics,Male
+1267,65.0,Diabetes,3.0,Pediatrics,Female
+1268,72.0,Diabetes,8.0,Pediatrics,Female
+1269,79.0,Heart Disease,5.0,Pediatrics,Female
+1270,82.0,Heart Disease,1.0,Pediatrics,Male
+1271,51.0,Asthma,7.0,Oncology,Female
+1272,52.0,Flu,5.0,Cardiology,Male
+1273,86.0,Diabetes,6.0,General,Female
+1274,37.0,Flu,6.0,Cardiology,Male
+1275,44.0,Flu,8.0,Pediatrics,Male
+1276,73.0,Heart Disease,9.0,Oncology,Female
+1277,77.0,Asthma,2.0,Emergency,Female
+1278,86.0,Cancer,9.0,Oncology,Male
+1279,65.0,Asthma,12.0,Pediatrics,Female
+1280,43.0,Asthma,11.0,Oncology,Female
+1281,51.0,Flu,10.0,Oncology,Female
+1282,66.0,Asthma,9.0,Pediatrics,Male
+1283,42.0,Diabetes,13.0,Oncology,Male
+1284,85.0,Flu,10.0,General,Female
+1285,46.0,Diabetes,10.0,General,Female
+1286,21.0,Cancer,7.0,Oncology,Female
+1287,36.0,Flu,1.0,Emergency,Male
+1288,52.0,Cancer,7.0,Pediatrics,Male
+1289,28.0,Flu,10.0,General,Female
+1290,62.0,Heart Disease,5.0,Emergency,Female
+1291,67.0,Asthma,6.0,Oncology,Female
+1292,58.0,Heart Disease,10.0,Emergency,Female
+1293,61.0,Cancer,7.0,Cardiology,Female
+1294,45.0,Asthma,14.0,General,Female
+1295,69.0,Flu,5.0,Oncology,Male
+1296,44.0,Asthma,7.0,Pediatrics,Female
+1297,43.0,Diabetes,9.0,Oncology,Male
+1298,32.0,Asthma,3.0,Pediatrics,Female
+1299,79.0,Diabetes,8.0,Oncology,Female
+1300,26.0,Asthma,2.0,Emergency,Male
+1301,76.0,Diabetes,11.0,Emergency,Male
+1302,55.0,Cancer,7.0,Emergency,Male
+1303,64.0,Heart Disease,13.0,Cardiology,Male
+1304,39.0,Flu,2.0,Pediatrics,Female
+1305,84.0,Asthma,14.0,Emergency,Male
+1306,27.0,Heart Disease,4.0,Cardiology,Female
+1307,35.0,Flu,7.0,Pediatrics,Male
+1308,33.0,Flu,3.0,Oncology,Female
+1309,34.0,Diabetes,2.0,Cardiology,Female
+1310,85.0,Cancer,11.0,General,Female
+1311,51.0,Cancer,10.0,Cardiology,Female
+1312,82.0,Heart Disease,7.0,Cardiology,Female
+1313,70.0,Cancer,1.0,Pediatrics,Female
+1314,44.0,Asthma,14.0,Oncology,Male
+1315,77.0,Cancer,8.0,General,Female
+1316,82.0,Heart Disease,3.0,Emergency,Male
+1317,81.0,Cancer,12.0,Emergency,Male
+1318,41.0,Asthma,12.0,Cardiology,Female
+1319,77.0,Diabetes,13.0,Pediatrics,Male
+1320,77.0,Heart Disease,2.0,Pediatrics,Female
+1321,68.0,Diabetes,3.0,Emergency,Male
+1322,71.0,Diabetes,5.0,General,Female
+1323,61.0,Diabetes,11.0,Oncology,Male
+1324,89.0,Flu,8.0,General,Female
+1325,34.0,Flu,10.0,Oncology,Female
+1326,73.0,Diabetes,7.0,Emergency,Female
+1327,79.0,Heart Disease,7.0,Oncology,Female
+1328,27.0,Asthma,12.0,Pediatrics,Male
+1329,72.0,Asthma,7.0,Cardiology,Female
+1330,79.0,Cancer,8.0,Cardiology,Male
+1331,24.0,Heart Disease,1.0,Emergency,Male
+1332,87.0,Flu,4.0,Pediatrics,Male
+1333,25.0,Diabetes,13.0,General,Female
+1334,66.0,Cancer,6.0,Pediatrics,Male
+1335,74.0,Asthma,9.0,Cardiology,Male
+1336,59.0,Flu,13.0,Cardiology,Male
+1337,71.0,Flu,2.0,Pediatrics,Female
+1338,35.0,Diabetes,1.0,Pediatrics,Female
+1339,32.0,Asthma,13.0,Cardiology,Male
+1340,49.0,Heart Disease,10.0,General,Female
+1341,38.0,Flu,12.0,Emergency,Female
+1342,36.0,Diabetes,14.0,Emergency,Male
+1343,82.0,Heart Disease,2.0,Pediatrics,Male
+1344,38.0,Asthma,7.0,Emergency,Female
+1345,77.0,Flu,3.0,Cardiology,Male
+1346,74.0,Heart Disease,10.0,Cardiology,Female
+1347,81.0,Heart Disease,2.0,Pediatrics,Female
+1348,42.0,Heart Disease,14.0,Pediatrics,Female
+1349,28.0,Flu,11.0,Pediatrics,Female
+1350,31.0,Flu,7.0,General,Female
+1351,20.0,Cancer,13.0,Emergency,Female
+1352,77.0,Asthma,13.0,Pediatrics,Male
+1353,20.0,Diabetes,2.0,Oncology,Male
+1354,53.0,Heart Disease,3.0,Oncology,Female
+1355,67.0,Cancer,11.0,Cardiology,Female
+1356,20.0,Diabetes,7.0,Emergency,Female
+1357,35.0,Cancer,14.0,Pediatrics,Male
+1358,80.0,Flu,4.0,Oncology,Female
+1359,83.0,Heart Disease,13.0,Emergency,Male
+1360,82.0,Diabetes,14.0,Cardiology,Female
+1361,88.0,Diabetes,1.0,General,Female
+1362,41.0,Diabetes,13.0,Emergency,Male
+1363,86.0,Diabetes,14.0,Emergency,Male
+1364,45.0,Diabetes,5.0,General,Female
+1365,35.0,Cancer,12.0,Emergency,Female
+1366,70.0,Heart Disease,9.0,Cardiology,Female
+1367,76.0,Flu,8.0,Cardiology,Male
+1368,48.0,Flu,12.0,General,Male
+1369,88.0,Flu,9.0,Pediatrics,Male
+1370,66.0,Flu,10.0,Oncology,Male
+1371,81.0,Cancer,14.0,Pediatrics,Male
+1372,88.0,Asthma,9.0,Emergency,Male
+1373,35.0,Heart Disease,7.0,Oncology,Female
+1374,67.0,Diabetes,4.0,General,Female
+1375,58.0,Asthma,5.0,General,Male
+1376,52.0,Flu,1.0,Oncology,Female
+1377,42.0,Asthma,14.0,Cardiology,Female
+1378,29.0,Heart Disease,1.0,Oncology,Male
+1379,88.0,Diabetes,3.0,Emergency,Female
+1380,53.0,Diabetes,13.0,Cardiology,Male
+1381,71.0,Heart Disease,14.0,General,Male
+1382,29.0,Heart Disease,8.0,Oncology,Female
+1383,38.0,Flu,14.0,Pediatrics,Male
+1384,77.0,Diabetes,2.0,Pediatrics,Male
+1385,20.0,Asthma,4.0,Emergency,Male
+1386,88.0,Cancer,2.0,Pediatrics,Male
+1387,23.0,Cancer,14.0,Oncology,Male
+1388,35.0,Heart Disease,5.0,Oncology,Male
+1389,43.0,Flu,9.0,Pediatrics,Male
+1390,21.0,Cancer,1.0,Oncology,Male
+1391,51.0,Diabetes,5.0,Emergency,Female
+1392,43.0,Heart Disease,14.0,Cardiology,Female
+1393,31.0,Asthma,9.0,Emergency,Female
+1394,69.0,Heart Disease,1.0,Emergency,Male
+1395,54.0,Asthma,9.0,Oncology,Male
+1396,52.0,Heart Disease,8.0,Cardiology,Female
+1397,52.0,Heart Disease,4.0,Oncology,Female
+1398,80.0,Heart Disease,12.0,General,Female
+1399,70.0,Asthma,11.0,Oncology,Male
+1400,62.0,Asthma,10.0,Oncology,Female
+1401,31.0,Heart Disease,5.0,Oncology,Female
+1402,86.0,Cancer,13.0,Cardiology,Male
+1403,84.0,Flu,5.0,Oncology,Female
+1404,52.0,Flu,11.0,Cardiology,Male
+1405,59.0,Flu,12.0,Pediatrics,Male
+1406,62.0,Asthma,6.0,General,Male
+1407,63.0,Asthma,7.0,Cardiology,Female
+1408,48.0,Cancer,8.0,Pediatrics,Female
+1409,32.0,Flu,14.0,Cardiology,Male
+1410,31.0,Flu,8.0,Cardiology,Female
+1411,65.0,Heart Disease,11.0,General,Female
+1412,21.0,Asthma,14.0,Emergency,Female
+1413,54.0,Flu,13.0,Emergency,Female
+1414,27.0,Cancer,2.0,Cardiology,Male
+1415,45.0,Cancer,9.0,Oncology,Female
+1416,53.0,Flu,7.0,Pediatrics,Male
+1417,26.0,Asthma,4.0,Oncology,Male
+1418,87.0,Cancer,4.0,Oncology,Female
+1419,77.0,Heart Disease,11.0,Cardiology,Male
+1420,48.0,Cancer,8.0,Cardiology,Female
+1421,55.0,Diabetes,4.0,Cardiology,Female
+1422,40.0,Diabetes,13.0,Cardiology,Male
+1423,55.0,Asthma,6.0,Emergency,Male
+1424,29.0,Flu,5.0,Cardiology,Male
+1425,43.0,Asthma,3.0,Emergency,Male
+1426,83.0,Asthma,13.0,Emergency,Female
+1427,68.0,Asthma,14.0,Cardiology,Female
+1428,55.0,Asthma,10.0,General,Female
+1429,43.0,Heart Disease,11.0,Pediatrics,Male
+1430,42.0,Heart Disease,2.0,Oncology,Male
+1431,81.0,Cancer,9.0,Emergency,Male
+1432,56.0,Diabetes,10.0,Pediatrics,Female
+1433,31.0,Asthma,9.0,General,Male
+1434,74.0,Cancer,1.0,Oncology,Female
+1435,32.0,Diabetes,10.0,Oncology,Male
+1436,42.0,Flu,3.0,Emergency,Female
+1437,49.0,Heart Disease,8.0,Cardiology,Female
+1438,36.0,Diabetes,6.0,General,Male
+1439,81.0,Flu,5.0,Emergency,Male
+1440,32.0,Diabetes,5.0,General,Female
+1441,78.0,Heart Disease,6.0,Cardiology,Female
+1442,38.0,Heart Disease,7.0,Cardiology,Male
+1443,68.0,Cancer,1.0,Emergency,Male
+1444,31.0,Asthma,9.0,Cardiology,Female
+1445,80.0,Diabetes,3.0,Pediatrics,Male
+1446,38.0,Diabetes,4.0,Oncology,Female
+1447,28.0,Flu,10.0,Emergency,Female
+1448,47.0,Heart Disease,1.0,General,Male
+1449,71.0,Diabetes,13.0,Pediatrics,Male
+1450,35.0,Heart Disease,11.0,Emergency,Male
+1451,88.0,Diabetes,10.0,Cardiology,Male
+1452,31.0,Cancer,3.0,Cardiology,Male
+1453,44.0,Asthma,2.0,Cardiology,Female
+1454,71.0,Diabetes,2.0,Cardiology,Female
+1455,72.0,Heart Disease,14.0,General,Male
+1456,42.0,Cancer,1.0,Pediatrics,Male
+1457,35.0,Diabetes,8.0,Oncology,Male
+1458,76.0,Flu,3.0,General,Female
+1459,58.0,Asthma,3.0,General,Male
+1460,72.0,Diabetes,6.0,Oncology,Male
+1461,61.0,Cancer,13.0,Oncology,Female
+1462,77.0,Flu,8.0,Cardiology,Female
+1463,58.0,Cancer,13.0,General,Male
+1464,33.0,Cancer,9.0,Emergency,Male
+1465,24.0,Flu,9.0,Oncology,Male
+1466,54.0,Cancer,4.0,Oncology,Female
+1467,37.0,Flu,14.0,Pediatrics,Male
+1468,28.0,Diabetes,5.0,Emergency,Male
+1469,77.0,Flu,2.0,Emergency,Male
+1470,36.0,Flu,11.0,Oncology,Female
+1471,26.0,Asthma,9.0,Cardiology,Female
+1472,65.0,Flu,8.0,Pediatrics,Male
+1473,32.0,Flu,3.0,Emergency,Male
+1474,59.0,Diabetes,11.0,Oncology,Female
+1475,61.0,Asthma,12.0,Emergency,Female
+1476,28.0,Heart Disease,13.0,Pediatrics,Female
+1477,69.0,Diabetes,9.0,Pediatrics,Female
+1478,46.0,Diabetes,3.0,General,Female
+1479,85.0,Heart Disease,9.0,Oncology,Female
+1480,24.0,Flu,2.0,Pediatrics,Female
+1481,48.0,Cancer,12.0,General,Female
+1482,56.0,Asthma,10.0,General,Female
+1483,57.0,Cancer,9.0,Emergency,Male
+1484,27.0,Heart Disease,8.0,Emergency,Male
+1485,84.0,Diabetes,9.0,General,Male
+1486,36.0,Diabetes,5.0,Emergency,Female
+1487,64.0,Asthma,11.0,Pediatrics,Male
+1488,23.0,Diabetes,11.0,Cardiology,Female
+1489,55.0,Diabetes,2.0,Pediatrics,Female
+1490,89.0,Asthma,8.0,General,Male
+1491,50.0,Asthma,12.0,General,Female
+1492,38.0,Heart Disease,6.0,Pediatrics,Male
+1493,80.0,Diabetes,8.0,Emergency,Male
+1494,73.0,Diabetes,11.0,Emergency,Male
+1495,58.0,Heart Disease,5.0,General,Female
+1496,38.0,Flu,10.0,Oncology,Male
+1497,58.0,Flu,2.0,Emergency,Female
+1498,86.0,Flu,6.0,Pediatrics,Male
+1499,64.0,Heart Disease,5.0,Emergency,Male
+1500,32.0,Diabetes,12.0,Pediatrics,Male
